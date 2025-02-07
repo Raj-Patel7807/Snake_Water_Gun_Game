@@ -17,14 +17,17 @@ Enter 0 for snack, 1 for water and 2 for gun : 1 You choose 1 Computer choose 2 
 ```
 
 ## How to Compile and Run ▶️
-1. Save the code to a file, e.g., `snack_water_gun.cpp`.
+1. Clone The Repo :
+   ```bash
+   git clone https://github.com/Raj-Patel7807/Snake_Water_Gun_Game.git
+   ```
 2. Compile using:
    ```bash
-   g++ -std=c++17 -o snack_water_gun snack_water_gun.cpp
+   g++ -std=c++17 -o main main.cpp
    ```
 3. Run the program:
     ```bash
-    ./snack_water_gun
+    ./main.exe
     ```
 
 ## Features ✨
@@ -38,4 +41,4 @@ Made By Raj Patel..
 - [GitHub](https://github.com/Raj-Patel7807)
 - [LinkedIn](https://www.linkedin.com/in/raj-patel7807)
 
-#### Happy Coding 🧑🏻‍💻✨
+**Happy Coding 🧑🏻‍💻✨**
